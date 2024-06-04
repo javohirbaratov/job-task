@@ -27,6 +27,5 @@ finally run the following command to seed the database with dummy content.
 ### API EndPoints
 ##### Document
 * Get a list of documents GET `http://localhost:8000/api/v1/documents`
-##### Post
 * Get a specific document GET Single `http://localhost:8000/api/v1/document/{id}`
 * Creating a document POST Create `http://localhost:8000/api/v1/documents/create`
